@@ -4,7 +4,7 @@
 ```
  
 
-**PhoeniksRedTeamers** is an app designed for ethical red teaming, jailbreaking, and educational purposes, providing a controlled environment to explore and understand the behavior of large language models (LLMs).
+**PhoeniksRedTeamers** is an app designed for ethical red teaming, jailbreaking, for safety / educational Gaurdrail purposes, providing a controlled environment to explore and understand the behavior of large language models (LLMs).
 some of work is inspired by pliny 
  
 https://x.com/elder_plinius/
