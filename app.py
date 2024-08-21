@@ -249,7 +249,7 @@ if selected_model:
     st.session_state.selected_model = selected_model
 
 # Main chat interface
-st.title("AI Chat Application")
+st.title("**🔐 PhoeniksRedTeamers: Ethical LLM Jailbreaking & Red Teaming App 🚀**")
 
 # Display chat messages
 for message in st.session_state.messages:
