@@ -1,8 +1,8 @@
  
-****🔐 PhoeniksRedTeamers: Ethical LLM Jailbreaking & Red Teaming App 🚀****
-
-
-
+```markdown
+# 🔐 PhoeniksRedTeamers: Ethical LLM Jailbreaking & Red Teaming App 🚀
+```
+ 
 
 **PhoeniksRedTeamers** is an app designed for ethical red teaming, jailbreaking, and educational purposes, providing a controlled environment to explore and understand the behavior of large language models (LLMs).
 some of work is inspired by pliny 
