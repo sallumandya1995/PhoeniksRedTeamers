@@ -5,13 +5,11 @@
  
 
 **PhoeniksRedTeamers** is an app designed for ethical red teaming, jailbreaking, for safety / educational Gaurdrail purposes, providing a controlled environment to explore and understand the behavior of large language models (LLMs).
-some of work is inspired by pliny 
- 
-https://x.com/elder_plinius/
+
 
 ![Logo](./logo.png)
-![Intro Video](intro.webm)
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=URZRWfdCSwU)
+ 
+[![ intro Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=URZRWfdCSwU)
 
 ---
 
@@ -118,5 +116,7 @@ streamlit run app.py
 
 ## 💻 Developed by
 - ** Xhaheen <3 **
-
+some of work is inspired by pliny 
+ 
+https://x.com/elder_plinius/
 Happy jailbreaking and ethical red teaming! 🔐
