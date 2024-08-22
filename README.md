@@ -9,7 +9,7 @@ some of work is inspired by pliny
  
 https://x.com/elder_plinius/
 
-
+![Logo](./logo.png)
 ![Intro Video](intro.webm)
 
 ---
