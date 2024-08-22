@@ -28,7 +28,7 @@ https://x.com/elder_plinius/
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/sallumandya/PhoeniksRedTeamers
+git clone https://github.com/sallumandya1995/PhoeniksRedTeamers
 ```
 
 ### 2. Set Up Virtual Environment (Optional):
